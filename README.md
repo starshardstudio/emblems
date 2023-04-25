@@ -9,3 +9,9 @@ SVG support in applications seems to be very poor, so a raster alternative had t
 ## Why no Git LFS?
 
 Some applications do not support Git LFS properly, and that may impede the use of these emblems.
+
+## Acknowledgements
+
+| Product | License | Copyright |
+|---------|---------|-----------|
+| Font Awesome Free | [CC-BY-4.0](https://fontawesome.com/license/free) | © Fonticons, Inc.
