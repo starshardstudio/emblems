@@ -1,3 +1,11 @@
-Repository for Star Shard Studio emblems generated with [Emblematic](https://github.com/steffo99/emblematic).
+# ![](icon.png) Emblems
 
-(Sadly, SVG support on applications seems to be so poor, that these have to be stored as PNGs.)
+Emblems for Star Shard Studio generated with [Emblematic](https://github.com/steffo99/emblematic).
+
+## Why PNG?
+
+SVG support in applications seems to be very poor, so a raster alternative had to be used.
+
+## Why no Git LFS?
+
+Some applications do not support Git LFS properly, and that may impede the use of these emblems.
